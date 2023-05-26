@@ -486,6 +486,7 @@
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Stefan Baciu](https://github.com/StefanCodru)
 - Selvakumar
+- [shashwat Mahajan]
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
 - [Malavya Raval](https://github.com/MalavyaRaval)
 - [José Ortiz-Ocampo](https://github.com/jhortizo)
